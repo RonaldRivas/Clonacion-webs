@@ -1,6 +1,19 @@
-html {
-  font-size: 1rem,bold;
-  margin: 0;
-  padding: 0; }
+body {
+  width: 100%; }
+
+.encabezado {
+  width: 100%;
+  height: 7em;
+  max-width: 1500px;
+  min-width: 300px; }
+
+.logo {
+  background-color: blueviolet;
+  width: 93.75rem; }
+
+.contain_logo {
+  padding: 1em;
+  margin: 0 1.5em 0 1.5em;
+  background-color: brown; }
 
 /*# sourceMappingURL=estilos.css.map */

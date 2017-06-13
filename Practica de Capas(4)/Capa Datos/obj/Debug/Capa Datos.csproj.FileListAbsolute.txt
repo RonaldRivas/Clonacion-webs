@@ -1,0 +1,7 @@
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\bin\Debug\Capa Entidad.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\bin\Debug\Capa Entidad.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Datos\obj\Debug\Capa Datos.pdb

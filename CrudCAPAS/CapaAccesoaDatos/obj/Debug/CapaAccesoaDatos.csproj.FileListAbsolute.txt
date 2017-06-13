@@ -1,0 +1,6 @@
+c:\users\ronald rivas\documents\visual studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll.config
+c:\users\ronald rivas\documents\visual studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+c:\users\ronald rivas\documents\visual studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+c:\users\ronald rivas\documents\visual studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+c:\users\ronald rivas\documents\visual studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\CrudCAPAS\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojResolveAssemblyReference.cache

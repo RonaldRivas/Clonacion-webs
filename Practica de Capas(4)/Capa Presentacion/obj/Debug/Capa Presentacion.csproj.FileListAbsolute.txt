@@ -1,0 +1,15 @@
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Datos.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Entidad.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Negocio.dll
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Datos.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Entidad.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\bin\Debug\Capa Negocio.pdb
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa_Presentacion.P_Empleado.resources
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\Ronald Rivas\Documents\Visual Studio 2017\Projects\Practica de Capas(4)\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
